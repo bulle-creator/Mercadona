@@ -41,7 +41,17 @@ La vue détaillée d’un produit n’est pas possible, la page « catalogue » 
 
 José vous demande d’effectuer les missions qui vous sont exposées dans les dossiers suivants.
 
+## Stack technique
 
+Aucune contrainte technique n’est imposée, mise à part PostGreSQL ainsi que Java pour la
+partie back-end.
+
+Si vous n’avez pas d’idée technique, voici un exemple possible :
+
+- Front : _template HTML Spring (thymeleaf) ou un front classique (ReactJS, Angular, etc)_
+- Back-end : _Java (Spring Boot)_ => obligatoire
+- Base de données : _PostgreSQL_ => obligatoire
+- Déploiement : _fly.io , Heroku_
 
 
 
