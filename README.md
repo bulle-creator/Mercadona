@@ -10,30 +10,30 @@ Mercadona n’est pas expert du web, de ce fait, ils ont pris contact avec Promo
 
 ## Description du projet
 Les missions que vous devrez effectuer sont les suivantes :
-  🡺 Analyse du projet
-  🡺 Production des documents nécessaires au développement d’une application
-  🡺 Développement de l’application
+  - Analyse du projet
+  - Production des documents nécessaires au développement d’une application
+  -  Développement de l’application
   
 Afin de mener cela à bien, José, connaissant tous les tenants et aboutissant, vous fait un résumé de tout ce que le client attend.
 
 Le client, Mercadona, souhaite une application en trois parties :
-  🡺 Front-end : permettant à un utilisateur de consulter les promotions
-  🡺 Back-end : enregistrant les données vers la base de données
-  🡺 Base de données : stockage de l’information
+  - Front-end : permettant à un utilisateur de consulter les promotions
+  - Back-end : enregistrant les données vers la base de données
+  - Base de données : stockage de l’information
 
 José vous explique que le but de l’application est d’afficher des promotions. Pour ce faire, votre application web devra pouvoir authentifier un visiteur (uniquement
 possible pour les administrateurs) afin de pouvoir ajouter des promotions sur des produits.
 
 Le processus de mise en ligne d’une promotion est le suivant :
-  🡺 L’administrateur crée un produit sur son espace avec un premier prix
-    o Un produit est défini par
-      ▪ Un libelle, une description, un prix, une image ainsi qu’une catégorie
-      ▪ Une catégorie est définie par un libelle uniquement
+  - L’administrateur crée un produit sur son espace avec un premier prix
+    - Un produit est défini par
+      - Un libelle, une description, un prix, une image ainsi qu’une catégorie
+      - Une catégorie est définie par un libelle uniquement
 
- 🡺 Une fois les produits créent, il est possible de le mettre en promotion, pour ce faire, il doit accéder au produit depuis l’espace Admin et clic sur un bouton « promotion » et saisis un pourcentage de promotion à appliquer au prix. Le nouveau prix est calculé automatiquement.
-   o Une promotion est caractérisée par
-    ▪ une date de début ainsi qu’une date de fin
-    ▪ Un pourcentage de remise
+ - Une fois les produits créent, il est possible de le mettre en promotion, pour ce faire, il doit accéder au produit depuis l’espace Admin et clic sur un bouton « promotion » et saisis un pourcentage de promotion à appliquer au prix. Le nouveau prix est calculé automatiquement.
+   - Une promotion est caractérisée par
+    - une date de début ainsi qu’une date de fin
+    - Un pourcentage de remise
 
 Tous les produits, même ceux sans promotion, sont visibles sur l’onglet « catalogue », accessible depuis le menu de l’application web sans aucune authentification. Un filtre est disponible sur cette page afin d’afficher les produits par catégorie.
 
