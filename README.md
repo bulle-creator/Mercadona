@@ -1,5 +1,5 @@
 # Mercadona
-Bloc 3 – Développement d’une solution digitale avec Java 
+
 ## Présention de l'entreprise
 Mercadona, célèbre entreprise dans le milieu du retail dispose de 1675 magasins en Espagne réalisant ainsi un chiffre d’affaires de 20 milliards d’euros. Son succès se dessine à travers des promotions très fréquentes, il y a toujours un minimum d’une centaine de produits en promotion et à tout moment de l’année.
 
