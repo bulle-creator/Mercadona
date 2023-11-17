@@ -1,0 +1,4 @@
+"id","nom","prenom","email","role_au","mot_de_passe","login"
+1,"Dupont                                            ","Marie                                             ","mariedupon@gmail                                  ","admin     ","Loco34                                            ","Marie                                             "
+2,"Devillier                                         ","Jean                                              ","jdevillier@gmail                                  ","admin     ","Pomme78                                           ","Jean                                              "
+3,"Mirabel                                           ","Claire                                            ","clairm@gmail                                      ","user      ","123user                                           ","Clarysa                                           "
